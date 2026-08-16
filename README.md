@@ -3,6 +3,7 @@ Projeto de Machine Learning para previsão de cancelamentos de reservas hoteleir
 
 ## Etapas desenvolvidas no projeto
 
+
 ### 🧹 **Tratamento e preparação dos dados**
 
 - [x] Importação da biblioteca Pandas
@@ -44,6 +45,7 @@ Projeto de Machine Learning para previsão de cancelamentos de reservas hoteleir
 - [x] Verificação final dos valores ausentes
 - [x] Verificação final dos tipos de dados
 - [x] Verificação da dimensão final do DataFrame tratado
+      
 
 ### 🔎 **Análise Exploratória de Dados (EDA)**
 
@@ -76,6 +78,7 @@ Projeto de Machine Learning para previsão de cancelamentos de reservas hoteleir
 - [x] Criação de gráfico da taxa de cancelamento por país de origem
 - [x] Identificação de padrões e tendências
 - [x] Registro dos principais insights da análise exploratória
+      
 
 ### 🛠️ **Engenharia de Features**
 
@@ -96,6 +99,7 @@ Projeto de Machine Learning para previsão de cancelamentos de reservas hoteleir
 - [x] Uso de `handle_unknown='ignore'`
 - [x] Ajuste do codificador somente com os dados de treinamento
 - [x] Aplicação da mesma transformação aos dados de teste
+      
 
 ### 🤖 **Modelagem de Machine Learning**
 
@@ -118,6 +122,7 @@ Projeto de Machine Learning para previsão de cancelamentos de reservas hoteleir
 - [x] Geração de previsões no conjunto de teste
 - [x] Comparação das previsões com os valores reais
 
+
 ### 📊 **Avaliação do modelo**
 
 - [x] Cálculo da Acurácia (Accuracy)
@@ -136,6 +141,7 @@ Projeto de Machine Learning para previsão de cancelamentos de reservas hoteleir
 - [x] Análise dos erros e acertos do modelo
 - [x] Análise da capacidade do modelo de identificar cancelamentos
 - [x] Identificação da maior dificuldade do modelo na classe de cancelamentos
+      
 
 ### 📈 **Resultados obtidos**
 
